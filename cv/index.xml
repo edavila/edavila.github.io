@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Eduardo Davila</title>
-    <link>https://edavila.github.io/research/</link>
-      <atom:link href="https://edavila.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>CV | Eduardo Davila</title>
+    <link>https://edavila.github.io/cv/</link>
+      <atom:link href="https://edavila.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
+    <description>CV</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://edavila.github.io/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>https://edavila.github.io/research/</link>
+      <title>CV</title>
+      <link>https://edavila.github.io/cv/</link>
     </image>
     
   </channel>
