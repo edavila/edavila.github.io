@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact | Eduardo Davila</title>
-    <link>https://edavila.github.io/contact/</link>
-      <atom:link href="https://edavila.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.eduardodavila.com/contact/</link>
+      <atom:link href="https://www.eduardodavila.com/contact/index.xml" rel="self" type="application/rss+xml" />
     <description>Contact</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://edavila.github.io/img/icon-192.png</url>
+      <url>https://www.eduardodavila.com/img/icon-192.png</url>
       <title>Contact</title>
-      <link>https://edavila.github.io/contact/</link>
+      <link>https://www.eduardodavila.com/contact/</link>
     </image>
     
   </channel>

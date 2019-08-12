@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin | Eduardo Davila</title>
-    <link>https://edavila.github.io/authors/admin/</link>
-      <atom:link href="https://edavila.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.eduardodavila.com/authors/admin/</link>
+      <atom:link href="https://www.eduardodavila.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>admin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://edavila.github.io/img/icon-192.png</url>
+      <url>https://www.eduardodavila.com/img/icon-192.png</url>
       <title>admin</title>
-      <link>https://edavila.github.io/authors/admin/</link>
+      <link>https://www.eduardodavila.com/authors/admin/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://edavila.github.io/authors/eduardo/</link>
+      <link>https://www.eduardodavila.com/authors/eduardo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://edavila.github.io/authors/eduardo/</guid>
-      <description>&lt;p&gt;Eduardo Davila is an Assistant Professor of Economics at Yale University.&lt;/p&gt;
+      <guid>https://www.eduardodavila.com/authors/eduardo/</guid>
+      <description>&lt;p&gt;Eduardo Dávila is an Assistant Professor of Economics at Yale University.&lt;/p&gt;
 </description>
     </item>
     
