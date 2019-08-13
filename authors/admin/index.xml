@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin | Eduardo Davila</title>
+    <title>admin | Eduardo Dávila</title>
     <link>https://www.eduardodavila.com/authors/admin/</link>
       <atom:link href="https://www.eduardodavila.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>admin</description>
@@ -17,7 +17,34 @@
       <link>https://www.eduardodavila.com/authors/eduardo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.eduardodavila.com/authors/eduardo/</guid>
-      <description>&lt;p&gt;Eduardo Dávila is an Assistant Professor of Economics at Yale University.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Eduardo Dávila&lt;/strong&gt;&lt;br /&gt;
+Assistant Professor of Economics, Yale University&lt;br /&gt;
+&lt;a href=&#34;mailto:eduardo.davila@yale.edu&#34; target=&#34;_blank&#34;&gt;eduardo.davila@yale.edu&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;a href=&#34;davila_cv.pdf&#34; target=&#34;_blank&#34;&gt;Full CV here (pdf)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Updates&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;davila_parlatore_volatility.pdf&#34; target=&#34;_blank&#34;&gt;Volatility and Informativeness&lt;/a&gt;, with Cecilia Parlatore, August 2019 (Updated draft)
+&lt;a href=&#34;davila_goldstein_deposit.pdf&#34; target=&#34;_blank&#34;&gt;Optimal Deposit Insurance&lt;/a&gt;, with Itay Goldstein, August 2019 (Updated draft)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications&lt;/strong&gt;&lt;br /&gt;
+Pecuniary Externalities in Economies with Financial Frictions, with Anton Korinek&lt;br /&gt;
+&lt;em&gt;The Review of Economic Studies&lt;/em&gt;, Volume 85, Issue 1, 1 January 2018, Pages 352–395. Link, BibTeX&lt;/p&gt;
+
+&lt;p&gt;House Price Beliefs and Mortgage Leverage Choice, with Michael Bailey, Theresa Kuchler, and Johannes Stroebel, October 2019&lt;br /&gt;
+&lt;em&gt;The Review of Economic Studies&lt;/em&gt;, Forthcoming.&lt;/p&gt;
+
+&lt;p&gt;Does Size Matter? Bailouts with Large and Small Banks, with Ansgar Walther, April 2019&lt;br /&gt;
+&lt;em&gt;Journal of Financial Economics&lt;/em&gt;, Forthcoming.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;​​​Education&lt;/strong&gt;&lt;br /&gt;
+Ph.D. in Economics, Harvard University, 2014&lt;br /&gt;
+B.A. in Economics, Universitat Pompeu Fabra, 2008&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Academic Positions&lt;/strong&gt;&lt;br /&gt;
+Assistant Professor of Economics, Yale University, Economics Department, 2018-&lt;br /&gt;
+Assistant Professor of Finance, New York University, Stern School of Business, Finance Department, 2014-2019&lt;br /&gt;
+NBER, Faculty Research Fellow, 2017-&lt;/p&gt;
 </description>
     </item>
     

@@ -1,9 +1,9 @@
 {
-  "name": "Eduardo Davila",
-  "short_name": "Eduardo Davila",
+  "name": "Eduardo Dávila",
+  "short_name": "Eduardo Dávila",
   "lang": "en-us",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "#00356b",
+  "background_color": "#00356b",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
