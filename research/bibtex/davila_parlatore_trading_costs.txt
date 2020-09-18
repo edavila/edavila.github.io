@@ -1,0 +1,7 @@
+@Article{davila2020tradingcosts,
+  Title                    = {Trading Costs and Informational Efficiency},
+  Author                   = {D{'a}vila, Eduardo and Parlatore, Cecilia},
+  Journal                  = {The Journal of Finance},
+  Year                     = {2020},
+  Month                    = {Forthcoming},
+}
