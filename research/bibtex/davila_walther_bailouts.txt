@@ -1,6 +1,6 @@
 @Article{davila2020does,
   Title                    = {Does Size Matter? Bailouts with Large and Small Banks},
-  Author                   = {D{'a}vila, Eduardo and Walther, Ansgar},
+  Author                   = {D{\'a}vila, Eduardo and Walther, Ansgar},
   Journal                  = {Journal of Financial Economics},
   Year                     = {2020},
   Month                    = {April},
