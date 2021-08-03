@@ -1,29 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://www.eduardodavila.com/authors/eduardo/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.eduardodavila.com/authors/</loc>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.eduardodavila.com/cv/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.eduardodavila.com/categories/</loc>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.eduardodavila.com/contact/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.eduardodavila.com/discussions/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.eduardodavila.com/</loc>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.eduardodavila.com/publication_types/</loc>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.eduardodavila.com/research/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.eduardodavila.com/tags/</loc>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.eduardodavila.com/teaching/2019_2020/</loc>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://www.eduardodavila.com/teaching/2020_2021/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.eduardodavila.com/teaching/</loc>
   </url>
+  
+  <url>
+    <loc>https://www.eduardodavila.com/authors/admin/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>

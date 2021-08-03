@@ -1,5 +1,5 @@
-@article{davila2018pecuniary,
-  title={Pecuniary externalities in economies with financial frictions},
+@article{davilakorinek2018pecuniary,
+  title={Pecuniary Externalities in Economies with Financial Frictions},
   author={D{\'a}vila, Eduardo and Korinek, Anton},
   journal={The Review of Economic Studies},
   volume={85},

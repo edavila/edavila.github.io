@@ -1,4 +1,4 @@
-@Article{davila2020does,
+@Article{davilawalther2020bailouts,
   Title                    = {Does Size Matter? Bailouts with Large and Small Banks},
   Author                   = {D{\'a}vila, Eduardo and Walther, Ansgar},
   Journal                  = {Journal of Financial Economics},
@@ -7,5 +7,4 @@
   Number                   = {1},
   Pages                    = {1-22},
   Volume                   = {136},
-  Publisher                = {Oxford University Press}
 }

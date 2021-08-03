@@ -13,170 +13,40 @@
     </image>
     
     <item>
-      <title>Bio</title>
-      <link>https://www.eduardodavila.com/cv/</link>
+      <title>Teaching</title>
+      <link>https://www.eduardodavila.com/teaching/2019_2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.eduardodavila.com/cv/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_cv.pdf&#34;&gt;Full CV here (pdf)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;​​​Education&lt;/strong&gt;&lt;br&gt;
-Ph.D. in Economics, Harvard University, 2014&lt;br&gt;
-B.A. in Economics, Universitat Pompeu Fabra, 2008&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Academic Positions&lt;/strong&gt;&lt;br&gt;
-Assistant Professor of Economics, Yale University, 2018-&lt;br&gt;
-NBER, Faculty Research Fellow, 2017-&lt;/p&gt;
-&lt;p&gt;Meet my better half &lt;strong&gt;&lt;a href=&#34;https://luciatian.com&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://www.eduardodavila.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.eduardodavila.com/contact/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt;&lt;br&gt;
-Yale University&lt;br&gt;
-Department of Economics&lt;br&gt;
-28 Hillhouse Avenue, Room 304&lt;br&gt;
-New Haven, CT 06520-8268&lt;br&gt;
-Email: &lt;a href=&#34;mailto:eduardo.davila@yale.edu&#34;&gt;eduardo.davila@yale.edu&lt;/a&gt;&lt;br&gt;
-​Web: &lt;a href=&#34;www.eduardodavila.com&#34;&gt;www.eduardodavila.com&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Discussions</title>
-      <link>https://www.eduardodavila.com/discussions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.eduardodavila.com/discussions/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Delayed Crises and Slow Recoveries, &lt;a href=&#34;davila_discussion_liu_wang_yang.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Xuewen Liu, Pengfei Wang, and Zhongchao Yang
-China International Conference in Finance (CICF), 2021&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Is There Too Much Benchmarking in Asset Management?, &lt;a href=&#34;davila_discussion_kklp.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Anil Kashyap, Natalia Kovrijnykh, Jian Li, and Anna Pavlova
-JHU Carey Finance Conference, 2021&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Renegotiation in Debt Chains, &lt;a href=&#34;davila_discussion_glode_opp.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Vincent Glode and Christian Opp
-SFS Cavalcade, 2021&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Can the Cure Kill the Patient? Corporate Credit Interventions and Debt Overhang, &lt;a href=&#34;davila_discussion_crouzet_tourre.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Nicolas Crouzet and Fabrice Tourre
-Adam Smith Workshop, 2021&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Alpha and Beta Information, &lt;a href=&#34;davila_discussion_hssy.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Shiyang Huang, Jan Schneemeier, Avanidhar Subrahmanyam, and Liyan Yang
-MFA Meetings, 2021&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dissecting Mechanisms of Financial Crises: Intermediation and Sentiment, &lt;a href=&#34;davila_discussion_kl.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Arvind Krishnamurthy and Wenhao Li
-AEA Meetings, 2021&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Capital Structure and Hedging Demand with Incomplete Markets, &lt;a href=&#34;davila_discussion_bcg.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Alberto Bisin, Gian Luca Clementi, and Piero Gottardi&lt;br&gt;
-Cambridge Corporate Finance Theory Symposium, 2020&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Market Feedback: Who Learns What?, &lt;a href=&#34;davila_discussion_gsy.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Itay Goldstein, Jan Schneemeier, and Liyan Yang&lt;br&gt;
-SFS Cavalcade, 2020&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bank Competition, Lending Technologies, and Credit Availability: Evidence Using Antitrust Regulatory Frictions, &lt;a href=&#34;davila_discussion_berger_kim.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Allen N. Berger and Dasol Kim&lt;br&gt;
-AEA Meetings, 2020&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Liquidity versus Information Efficiency, &lt;a href=&#34;davila_discussion_glebkin.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Sergei Glebkin&lt;br&gt;
-AFA Meetings, 2020&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A Dynamic Theory of Multiple Borrowing, &lt;a href=&#34;davila_discussion_liu.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Daniel Green and Ernest Liu&lt;br&gt;
-NYU Stern Five Star Conference, 2019&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Financial Crisis Bailouts: What They Cost Taxpayers and Who Reaped The Direct Benefits, &lt;a href=&#34;davila_discussion_lucas.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Deborah Lucas&lt;br&gt;
-Shadow Open Market Committee, 2019&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cournot Fire Sales, &lt;a href=&#34;davila_discussion_eisenbach.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Thomas Eisenbach and Gregory Phelan&lt;br&gt;
-Second Financial Stability Conference Bank of Spain, 2019&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Variation Margins, Fire Sales, and Information-Constrained Optimality, &lt;a href=&#34;davila_discussion_bhh.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Bruno Biais, Florian Heider, Marie Hoerova&lt;br&gt;
-FIRS Meetings, 2019&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Self-fulfilling Asset Prices, &lt;a href=&#34;davila_discussion_zentefis.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Alexander Zentefis&lt;br&gt;
-AFA Meetings, 2019&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How I Learned to Stop Worrying and Love Fire Sales, &lt;a href=&#34;davila_discussion_kurlat.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Pablo Kurlat&lt;br&gt;
-Wharton Liquidity Conference, 2018&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Speed Acquisition, &lt;a href=&#34;davila_discussion_cavalcade.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Shiyang Huang and Bart Zhou Yueshen&lt;br&gt;
-SFS Cavalcade, 2018&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risk-Taking Dynamics and Financial Stability, &lt;a href=&#34;davila_discussion_korinek_nowak.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Anton Korinek and Martin Nowak&lt;br&gt;
-AEA Meetings, 2018&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Misallocation of Finance, &lt;a href=&#34;davila_discussion_whited.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Toni Whited and Jake Zhao&lt;br&gt;
-Econometric Society Meetings, 2018&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Divergent Risk-Attitudes and Endogenous Collateral Constraints, &lt;a href=&#34;davila_discussion_essim.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Giuliano Curatola and Ester Faia&lt;br&gt;
-ESSIM, 2017&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Moral Hazard Misconceptions: the Case of the Greenspan Put, &lt;a href=&#34;davila_discussion_bl.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Gideon Bornstein and Guido Lorenzoni&lt;br&gt;
-AEA Meetings, 2017&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Output Costs of Sovereign Default, &lt;a href=&#34;davila_discussion_hs.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Benjamin Hébert and Jesse Schreger&lt;br&gt;
-Yale Junior Finance Conference, 2016&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Multiple Equilibria in Open Economy Models with Collateral Constraints: Overborrowing Revisited, &lt;a href=&#34;davila_discussion_dgu.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Stephanie Schmitt-Grohé and Martin Uribe&lt;br&gt;
-​NBER International Finance Spring Meeting, 2016&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Monetary Policy and the Redistribution Channel, &lt;a href=&#34;davila_discussion_auclert.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Adrien Auclert&lt;br&gt;
-NBER Mathematical Economics Conference, 2015&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Coordinating Business Cycles, &lt;a href=&#34;davila_discussion_st.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Edouard Schaal and Mathieu Taschereau-Dumouchel&lt;br&gt;
-Wharton Liquidity Conference, 2015&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Advertising Arbitrage, &lt;a href=&#34;davila_discussion_kp.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Sergei Kobasyuk and Marco Pagano&lt;br&gt;
-CEPR Asset Pricing Conference Gerzensee, 2015&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Can a Financial Transaction Tax Prevent Stock Price Booms?, &lt;a href=&#34;davila_discussion_abmm.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Klaus Adam, Johannes Beutel, Albert Marcet and Sebastian Merkel&lt;br&gt;
-Barcelona GSE Summer Forum Macro-Finance, 2015&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A Model of the Reserve Asset, &lt;a href=&#34;davila_discussion_hkm.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Zhiguo He, Arvind Krishnamurthy and Konstantin Milbradt&lt;br&gt;
-Columbia Safe Assets Conference, 2015&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;International Spillovers and Guidelines for Policy Cooperation, &lt;a href=&#34;davila_discussion_korinek.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by Anton Korinek&lt;br&gt;
-NBER International Finance Fall Meeting, 2014&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A Theory of Power Law Distributions for the Returns to Capital and of the Credit Spread Puzzle, &lt;a href=&#34;davila_discussion_geerolf.pdf&#34;&gt;SLIDES&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-by François Geerolf&lt;br&gt;
-Barcelona GSE Summer Forum Macro-Finance, 2014&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://www.eduardodavila.com/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.eduardodavila.com/research/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_korinek_pecuniary.pdf&#34;&gt;Pecuniary Externalities in Economies with Financial Frictions&lt;/a&gt;&lt;/strong&gt;, with Anton Korinek.&lt;br&gt;
-&lt;em&gt;The Review of Economic Studies&lt;/em&gt;, Volume 85, Issue 1, 1 January 2018, Pages 352–395. &lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1093/restud/rdx010&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&#34;bibtex/davila_korinek_pecuniary.bib&#34;&gt;BibTeX&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-&lt;!-- raw HTML omitted --&gt; This paper was previously circulated as &amp;ldquo;Fire-Sale Externalities&amp;rdquo;. It subsumes my earlier working paper &amp;ldquo;&lt;a href=&#34;davila_dissecting.pdf&#34;&gt;Dissecting Fire Sales Externalities&lt;/a&gt;&amp;rdquo;. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;beliefsleverage.pdf&#34;&gt;House Price Beliefs and Mortgage Leverage Choice&lt;/a&gt;&lt;/strong&gt;, with Michael Bailey, Theresa Kuchler, and Johannes Stroebel. &lt;em&gt;The Review of Economic Studies&lt;/em&gt;, Volume 86, Issue 6, November 2019, Pages 2403–2452. &lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1093/restud/rdy068&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&#34;bibtex/bdks_beliefs_leverage.bib&#34;&gt;BibTeX&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_exemptions.pdf&#34;&gt;Using Elasticities to Derive Optimal Bankruptcy Exemptions&lt;/a&gt;&lt;/strong&gt;. &lt;em&gt;The Review of Economic Studies&lt;/em&gt;, Volume 87, Issue 2, March 2020, Pages 870–913. &lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1093/restud/rdz043&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&#34;bibtex/davila_exemptions.bib&#34;&gt;BibTeX&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_walther_bailouts.pdf&#34;&gt;Does Size Matter? Bailouts with Large and Small Banks&lt;/a&gt;&lt;/strong&gt;, with Ansgar Walther. &lt;em&gt;Journal of Financial Economics&lt;/em&gt;, Volume 136, Issue 1, April 2020, Pages 1–22. &lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jfineco.2019.09.005&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&#34;bibtex/davila_walther_bailouts.bib&#34;&gt;BibTeX&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_parlatore_trading_costs.pdf&#34;&gt;Trading Costs and Informational Efficiency&lt;/a&gt;&lt;/strong&gt;, with Cecilia Parlatore. &lt;em&gt;The Journal of Finance&lt;/em&gt;, Volume 76, Issue 3, June 2021, Pages 1471-1539. &lt;strong&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13008&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&#34;bibtex/davila_parlatore_trading_costs.bib&#34;&gt;BibTeX&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&#34;under-revision&#34;&gt;Under Revision&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_goldstein_optimal_di.pdf&#34;&gt;Optimal Deposit Insurance&lt;/a&gt;&lt;/strong&gt;, with Itay Goldstein, April 2021&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_parlatore_volatility.pdf&#34;&gt;Volatility and Informativeness&lt;/a&gt;&lt;/strong&gt;, with Cecilia Parlatore, January 2021. Code and data are available &lt;strong&gt;&lt;a href=&#34;https://github.com/edavila/volatility_informativeness&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_optimal_ftt.pdf&#34;&gt;Optimal Financial Transaction Taxes&lt;/a&gt;&lt;/strong&gt;, September 2020&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_hebert_corporate_taxation.pdf&#34;&gt;Optimal Corporate Taxation under Financial Frictions&lt;/a&gt;&lt;/strong&gt;, with Ben Hébert, June 2020&lt;/p&gt;
-&lt;h1 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_graves_parlatore_value_arbitrage.pdf&#34;&gt;The Value of Arbitrage&lt;/a&gt;&lt;/strong&gt;, with Daniel Graves and Cecilia Parlatore, July 2021&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_walther_prudential_beliefs.pdf&#34;&gt;Prudential Policy with Distorted Beliefs&lt;/a&gt;&lt;/strong&gt;, with Ansgar Walther, May 2021&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_parlatore_identifying.pdf&#34;&gt;Identifying Price Informativeness&lt;/a&gt;&lt;/strong&gt;, with Cecilia Parlatore, February 2021. Code and data are available &lt;strong&gt;&lt;a href=&#34;https://github.com/edavila/identifying_price_informativeness&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_walther_corrective_2020_11_25.pdf&#34;&gt;Corrective Financial Regulation with Imperfect Instruments&lt;/a&gt;&lt;/strong&gt;, with Ansgar Walther, November 2020&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;​&lt;a href=&#34;davila_philippon_inc_shocks.pdf&#34;&gt;Incompleteness Shocks&lt;/a&gt;&lt;/strong&gt;, with Thomas Philippon, December 2017 (substantially revised draft coming soon)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_weymuller_optimal_joint_bond.pdf&#34;&gt;Optimal Joint Bond Design&lt;/a&gt;&lt;/strong&gt;, with Charles-Henri Weymuller, September 2017 (substantially revised draft coming soon)&lt;/p&gt;
-&lt;h1 id=&#34;inactive-working-papers&#34;&gt;Inactive Working Papers&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;davila_cumulant.pdf&#34;&gt;Myopic Portfolio Choice with Higher Cumulants​&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+      <guid>https://www.eduardodavila.com/teaching/2019_2020/</guid>
+      <description>
+
+&lt;p&gt;Current Students: &lt;a href=&#34;https://canvas.yale.edu/&#34; title=&#34;Canvas@Yale&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;See Canvas&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;fall-2019&#34;&gt;Fall 2019&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mathematical Economics: General Equilibrium Theory  (Econ 350a)&lt;/li&gt;
+&lt;li&gt;General Economic Theory: Microeconomics (Econ 500a) (with Larry Samuelson)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;spring-2020&#34;&gt;Spring 2020&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mathematical Economics II: Foundations of Macroeconomics and Finance (Econ 531b)  (with Herakles Polemarchakis)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://www.eduardodavila.com/teaching/</link>
+      <link>https://www.eduardodavila.com/teaching/2020_2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.eduardodavila.com/teaching/</guid>
-      <description>&lt;p&gt;Current Students: &lt;a href=&#34;https://canvas.yale.edu/&#34; title=&#34;Canvas@Yale&#34;&gt;&lt;strong&gt;See Canvas&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>https://www.eduardodavila.com/teaching/2020_2021/</guid>
+      <description>
+
+&lt;p&gt;Current Students: &lt;a href=&#34;https://canvas.yale.edu/&#34; title=&#34;Canvas@Yale&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;See Canvas&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;fall-2020&#34;&gt;Fall 2020&lt;/h2&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Financial Economics (Econ 251)&lt;/li&gt;
 &lt;/ul&gt;

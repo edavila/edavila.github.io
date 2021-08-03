@@ -1,5 +1,5 @@
-@article{bailey2019house,
-  title={House price beliefs and mortgage leverage choice},
+@article{bdks2019house,
+  title={House Price Beliefs and Mortgage Leverage Choice},
   author={Bailey, Michael and D{\'a}vila, Eduardo and Kuchler, Theresa and Stroebel, Johannes},
   journal={The Review of Economic Studies},
   volume={86},
