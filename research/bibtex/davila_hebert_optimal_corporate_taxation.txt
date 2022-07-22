@@ -1,0 +1,6 @@
+@article{davilahebert2023corporatetax}
+  title={Optimal Corporate Taxation under Financial Frictions},
+  author={D{\'a}vila, Eduardo and H{\'e}bert, Benjamin},
+  journal={The Review of Economic Studies, forthcoming},
+  year={2023},
+}
