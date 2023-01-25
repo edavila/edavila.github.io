@@ -2,5 +2,8 @@
   author  = {D{\'a}vila, Eduardo},
   journal = {The Journal of Finance, forthcoming},
   title   = {Optimal Financial Transaction Taxes},
-  year    = {2021}
+  year    = {2023},
+  number  = {1},
+  pages   = {5-61},
+  volume  = {78},
 }
