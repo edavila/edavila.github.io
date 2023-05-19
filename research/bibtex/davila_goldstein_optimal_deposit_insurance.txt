@@ -1,4 +1,4 @@
-@article{davilagoldstein2023depositinsurance}
+@article{davilagoldstein2023depositinsurance,
   title={Optimal Deposit Insurance},
   author={D{\'a}vila, Eduardo and Goldstein, Itay},
   journal={Journal of Political Economy, forthcoming},
