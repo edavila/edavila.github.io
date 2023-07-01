@@ -1,0 +1,10 @@
+@Article{davilaparlatore2023volatility,
+  Title                    = {Volatility and Informativeness},
+  Author                   = {D{\'a}vila, Eduardo and Parlatore, Cecilia},
+  Journal                  = {Journal of Financial Economics},
+  Year                     = {2023},
+  Month                    = {March},
+  Number                   = {3},
+  Pages                    = {550-572},
+  Volume                   = {147},
+}
