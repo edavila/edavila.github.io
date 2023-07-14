@@ -3,9 +3,9 @@
   author={D{\'a}vila, Eduardo and H{\'e}bert, Benjamin},
   journal={The Review of Economic Studies},
   year                     = {2023},
-  month                    = {October},
-  number                   = {5},
-  pages                    = {},
+  month                    = {July},
+  number                   = {4},
+  pages                    = {1893–1933},
   volume                   = {90},
   publisher={Oxford University Press}
 }

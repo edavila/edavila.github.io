@@ -5,6 +5,6 @@
   year                     = {2023},
   month                    = July
   number                   = {7},
-  pages                    = {},
+  pages                    = {1676-1730},
   volume                   = {131},
 }
