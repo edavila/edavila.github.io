@@ -3,7 +3,7 @@
   author={D{\'a}vila, Eduardo and Goldstein, Itay},
   journal={Journal of Political Economy},
   year                     = {2023},
-  month                    = July
+  month                    = {July},
   number                   = {7},
   pages                    = {1676-1730},
   volume                   = {131},

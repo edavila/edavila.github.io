@@ -3,7 +3,7 @@
   Author                   = {D{\'a}vila, Eduardo and Walther, Ansgar},
   Journal                  = {American Economic Review},
   Year                     = {2023},
-  Month                    = July
+  Month                    = {July},
   Number                   = {7},
   Pages                    = {1967-2006},
   Volume                   = {113},
