@@ -5,7 +5,7 @@
   year                     = {2023},
   month                    = {July},
   number                   = {4},
-  pages                    = {1893–1933},
+  pages                    = {1893--1933},
   volume                   = {90},
   publisher={Oxford University Press}
 }

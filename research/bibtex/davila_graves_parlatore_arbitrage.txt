@@ -1,0 +1,6 @@
+@article{davilagravesparlatore2023arbitrage,
+  title={The Value of Arbitrage},
+  author={D{\'a}vila, Eduardo and Graves, Daniel and Parlatore, Cecilia},
+  journal={Journal of Political Economy (Forthcoming)},
+  year={2023}
+}

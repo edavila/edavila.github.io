@@ -4,6 +4,6 @@
   title   = {Trading Costs and Informational Efficiency},
   year    = {2021},
   number  = {3},
-  pages   = {1471-1539},
+  pages   = {1471--1539},
   volume  = {76},
 }
