@@ -1,0 +1,7 @@
+@Article{davilaparlatore2024identifying,
+  author  = {D{\'a}vila, Eduardo and Parlatore, Cecilia},
+  journal = {Review of Financial Studies},
+  title   = {Identifying Price Informativeness},
+  year    = {2024},
+,
+}
