@@ -1,4 +1,4 @@
-@Article{davila2021,
+@Article{davila2023optimalftt,
   author  = {D{\'a}vila, Eduardo},
   journal = {The Journal of Finance},
   title   = {Optimal Financial Transaction Taxes},
