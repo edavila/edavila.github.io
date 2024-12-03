@@ -1,7 +1,7 @@
-@Article{davilaparlatore2024identifying,
+@Article{davilaparlatore2025identifying,
   author  = {D{\'a}vila, Eduardo and Parlatore, Cecilia},
-  journal = {Review of Financial Studies},
+  journal = {Review of Financial Studies (Forthcoming)},
   title   = {Identifying Price Informativeness},
-  year    = {2024},
+  year    = {2025},
 ,
 }

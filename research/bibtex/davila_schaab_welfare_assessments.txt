@@ -1,0 +1,6 @@
+@Article{davilaschaab025welfareassessments,
+  author  = {D{\'a}vila, Eduardo and Schaab, Andreas},
+  journal = {Journal of Political Economy (Forthcoming)},
+  title   = {Welfare Assessments with Heterogeneous Individuals},
+  year    = {2025},
+}
