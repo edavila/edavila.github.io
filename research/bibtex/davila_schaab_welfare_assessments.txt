@@ -3,4 +3,7 @@
   journal = {Journal of Political Economy (Forthcoming)},
   title   = {Welfare Assessments with Heterogeneous Individuals},
   year    = {2025},
+  month   = {September},
+  number  = {9},
+  volume  = {133},
 }
