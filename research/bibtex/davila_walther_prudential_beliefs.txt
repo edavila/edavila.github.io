@@ -1,4 +1,4 @@
-@Article{davilawalther2023prudential,
+@article{davilawalther2023prudential,
   Title                    = {Prudential Policy with Distorted Beliefs},
   Author                   = {D{\'a}vila, Eduardo and Walther, Ansgar},
   Journal                  = {American Economic Review},
@@ -6,5 +6,5 @@
   Month                    = {July},
   Number                   = {7},
   Pages                    = {1967--2006},
-  Volume                   = {113},
+  Volume                   = {113}
 }

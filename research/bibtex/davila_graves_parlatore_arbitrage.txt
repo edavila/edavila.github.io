@@ -6,5 +6,5 @@
   month                    = {June},
   number                   = {6},
   pages                    = {1947--1993},
-  volume                   = {132},
+  volume                   = {132}
 }
