@@ -6,5 +6,5 @@
   month   = {September},
   number  = {9},
   volume  = {133},
-  pages   = {2918--2961},
+  pages   = {2918--2961}
 }
