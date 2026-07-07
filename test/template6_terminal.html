@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Eduardo Dávila — Assistant Professor of Economics at Yale University. Research in Financial Economics and Macroeconomics.">
+  <title>Eduardo Dávila | Template 6 — Terminal</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "SF Mono", "Menlo", "Consolas", "Liberation Mono", monospace;
+      background: #0d1117;
+      color: #c9d1d9;
+      line-height: 1.7;
+      font-size: 15px;
+    }
+    a { color: #58a6ff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .page { max-width: 860px; margin: 0 auto; padding: 40px 24px 72px; }
+    .window {
+      background: #161b22; border: 1px solid #30363d; border-radius: 10px;
+      overflow: hidden; margin-bottom: 22px;
+    }
+    .titlebar {
+      background: #21262d; padding: 9px 14px; display: flex; align-items: center; gap: 8px;
+      border-bottom: 1px solid #30363d;
+    }
+    .dot { width: 12px; height: 12px; border-radius: 50%; }
+    .dot.r { background: #ff5f56; } .dot.y { background: #ffbd2e; } .dot.g { background: #27c93f; }
+    .titlebar .name { margin-left: 10px; color: #8b949e; font-size: .82rem; }
+    .body { padding: 22px 24px; }
+    .prompt { color: #7ee787; }
+    .prompt .path { color: #58a6ff; }
+    .prompt .dollar { color: #8b949e; }
+    .cmd { color: #e6edf3; }
+    .out { margin: 10px 0 22px; }
+    .header-flex { display: flex; gap: 26px; align-items: center; flex-wrap: wrap; }
+    .header-flex img {
+      width: 120px; height: 120px; border-radius: 8px; object-fit: cover;
+      border: 1px solid #30363d; filter: saturate(.9);
+    }
+    h1 { font-size: 1.5rem; color: #e6edf3; }
+    .comment { color: #8b949e; }
+    .kw { color: #ff7b72; }
+    .str { color: #a5d6ff; }
+    .paper { margin-bottom: 12px; padding-left: 20px; text-indent: -20px; }
+    .paper::before { content: "❯ "; color: #7ee787; }
+    .paper .title { color: #e6edf3; font-weight: 700; }
+    .paper .title a { color: #79c0ff; }
+    .paper .meta { color: #8b949e; font-size: .86rem; }
+    .tag {
+      color: #d2a8ff; border: 1px solid #d2a8ff44; border-radius: 999px;
+      padding: 0 8px; font-size: .74rem; margin-left: 6px; white-space: nowrap;
+    }
+    .navline a { margin-right: 4px; }
+    .navline a::before { content: "["; color: #8b949e; }
+    .navline a::after { content: "]"; color: #8b949e; }
+    .cursor {
+      display: inline-block; width: 9px; height: 18px; background: #c9d1d9;
+      vertical-align: -3px; animation: blink 1.1s steps(1) infinite;
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    footer { color: #8b949e; font-size: .82rem; text-align: center; }
+  </style>
+</head>
+
+<body>
+  <div class="page">
+    <div class="window">
+      <div class="titlebar">
+        <span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+        <span class="name">edavila@yale: ~</span>
+      </div>
+      <div class="body">
+        <div class="prompt"><span class="path">~</span> <span class="dollar">$</span> <span class="cmd">whoami --verbose</span></div>
+        <div class="out">
+          <div class="header-flex">
+            <img src="../input/davila_photo.jpg" alt="Eduardo Dávila">
+            <div>
+              <h1>Eduardo Dávila</h1>
+              <div class="comment"># Assistant Professor of Economics, Yale University</div>
+              <div class="comment"># Faculty Research Fellow, NBER</div>
+              <div style="margin-top:8px;">
+                <span class="kw">fields</span> = [<span class="str">"financial economics"</span>, <span class="str">"macroeconomics"</span>, <span class="str">"welfare economics"</span>]
+              </div>
+              <div><span class="kw">email</span> = <a href="mailto:eduardo.davila@yale.edu" class="str">"eduardo.davila@yale.edu"</a></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="prompt"><span class="path">~</span> <span class="dollar">$</span> <span class="cmd">ls links/</span></div>
+        <div class="out navline">
+          <a href="../input/davila_cv.pdf">cv.pdf</a>
+          <a href="https://scholar.google.com/citations?user=LTyI2MYAAAAJ">scholar</a>
+          <a href="https://github.com/edavila">github</a>
+          <a href="#">bio</a>
+          <a href="#">research</a>
+          <a href="#">teaching</a>
+          <a href="#">discussions</a>
+          <a href="#">contact</a>
+        </div>
+
+        <div class="prompt"><span class="path">~</span> <span class="dollar">$</span> <span class="cmd">cat drafts/recent.md</span></div>
+        <div class="out">
+          <div class="paper"><span class="title"><a href="../research/davila_parlatore_walther_probability_pricing.pdf">Probability Pricing</a></span> <span class="meta">— with Cecilia Parlatore and Ansgar Walther, 2025-10</span></div>
+          <div class="paper"><span class="title"><a href="../research/davila_schaab_time_inconsistency.pdf">Time Inconsistency with Heterogeneous Agents</a></span> <span class="meta">— with Andreas Schaab, 2025-09</span></div>
+          <div class="paper"><span class="title"><a href="../research/barcons_davila_schaab_intergenerational_welfare_assessments.pdf">Intergenerational Welfare Assessments</a></span> <span class="meta">— with Sergi Barcons and Andreas Schaab, 2025-12</span></div>
+          <div class="paper"><span class="title"><a href="../research/drst_optimal_tariffs.pdf">A Dynamic Theory of Optimal Tariffs</a></span> <span class="meta">— with Andrés Rodríguez-Clare, Andreas Schaab, and Stacy Yingqi Tan, 2025-05</span></div>
+          <div class="paper"><span class="title"><a href="../research/davila_walther_corrective.pdf">Corrective Regulation with Imperfect Instruments</a></span> <span class="meta">— with Ansgar Walther, 2026-05</span></div>
+        </div>
+
+        <div class="prompt"><span class="path">~</span> <span class="dollar">$</span> <span class="cmd">grep -r "published" papers/ | sort -r</span></div>
+        <div class="out">
+          <div class="paper"><span class="title"><a href="../research/davila_parlatore_identifying.pdf">Identifying Price Informativeness</a></span> <span class="tag">RFS 2026</span> <span class="meta">— with Cecilia Parlatore</span></div>
+          <div class="paper"><span class="title"><a href="../research/davila_schaab_welfare_heterogeneous.pdf">Welfare Assessments with Heterogeneous Individuals</a></span> <span class="tag">JPE 2025</span> <span class="meta">— with Andreas Schaab</span></div>
+          <div class="paper"><span class="title"><a href="../research/davila_graves_parlatore_value_arbitrage.pdf">The Value of Arbitrage</a></span> <span class="tag">JPE 2024</span> <span class="meta">— with Daniel Graves and Cecilia Parlatore</span></div>
+          <div class="paper"><span class="title"><a href="../research/davila_optimal_ftt.pdf">Optimal Financial Transaction Taxes</a></span> <span class="tag">JF 2023</span> <span class="meta">— lead article</span></div>
+          <div class="paper"><span class="title"><a href="../research/davila_goldstein_optimal_di.pdf">Optimal Deposit Insurance</a></span> <span class="tag">JPE 2023</span> <span class="meta">— with Itay Goldstein</span></div>
+          <div class="paper"><span class="title"><a href="../research/davila_walther_prudential_beliefs.pdf">Prudential Policy with Distorted Beliefs</a></span> <span class="tag">AER 2023</span> <span class="meta">— with Ansgar Walther</span></div>
+        </div>
+
+        <div class="prompt"><span class="path">~</span> <span class="dollar">$</span> <span class="cmd">tail -n 4 news.log</span></div>
+        <div class="out">
+          <div class="paper"><a href="https://economics.yale.edu/news/241002/yale-economist-eduardo-davila-wins-banco-sabadell-foundation-award-economic-research">Banco Sabadell Foundation Award for Economic Research</a></div>
+          <div class="paper"><a href="https://cowles.yale.edu/news/240509/cowles-foundation-hosts-18th-annual-conference-general-equilibrium">Cowles hosts 18th Annual Conference on General Equilibrium</a></div>
+          <div class="paper"><a href="https://economics.yale.edu/news/240221/eduardo-davila-and-ryota-iijima-named-sloan-fellows-early-career-excellence">Named Sloan Research Fellow</a></div>
+          <div class="paper"><a href="https://economics.yale.edu/news/240109/eduardo-davilas-research-explores-welfare-and-macroeconomy">Research feature: Welfare and the Macroeconomy</a></div>
+        </div>
+
+        <div class="prompt"><span class="path">~</span> <span class="dollar">$</span> <span class="cursor"></span></div>
+      </div>
+    </div>
+    <footer>eduardo dávila — yale university</footer>
+  </div>
+</body>
+</html>
