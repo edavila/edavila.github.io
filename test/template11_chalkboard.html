@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Eduardo Dávila — Assistant Professor of Economics at Yale University. Research in Financial Economics and Macroeconomics.">
+  <title>Eduardo Dávila | Template 11 — Chalkboard</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Chalkboard SE", "Chalkduster", "Comic Sans MS", "Segoe Print", cursive;
+      background:
+        radial-gradient(ellipse at 20% 10%, rgba(255,255,255,.045) 0%, transparent 55%),
+        radial-gradient(ellipse at 80% 85%, rgba(255,255,255,.035) 0%, transparent 55%),
+        #2c3e36;
+      color: #e8e6df;
+      line-height: 1.65;
+      padding: 26px 14px 60px;
+    }
+    a { color: #ffd866; text-decoration: none; border-bottom: 1.5px dashed #ffd86688; }
+    a:hover { color: #fff3b8; border-bottom-style: solid; }
+    .board {
+      max-width: 920px; margin: 0 auto;
+      border: 14px solid #7b5a3c;
+      border-radius: 6px;
+      box-shadow: inset 0 0 40px rgba(0,0,0,.45), 0 10px 26px rgba(0,0,0,.5);
+      padding: 36px 40px 30px;
+      background:
+        radial-gradient(ellipse at 60% 30%, rgba(255,255,255,.03) 0%, transparent 60%),
+        #30443b;
+    }
+    header { text-align: center; margin-bottom: 24px; }
+    h1 {
+      font-size: 2.6rem; color: #fff; letter-spacing: .02em;
+      text-shadow: 0 0 6px rgba(255,255,255,.25);
+    }
+    h1 .underline {
+      display: block; width: 300px; max-width: 80%; margin: 4px auto 0;
+      border-bottom: 3px solid rgba(255,255,255,.75); border-radius: 50%/8px;
+      transform: rotate(-.6deg);
+    }
+    .role { color: #cfe3d8; font-size: 1.05rem; margin-top: 8px; }
+    .photo-wrap { float: right; margin: 0 0 14px 22px; text-align: center; transform: rotate(1.6deg); }
+    .photo-wrap img {
+      width: 150px; height: 150px; object-fit: cover;
+      border: 6px solid #f5f2e8; box-shadow: 0 6px 14px rgba(0,0,0,.45);
+    }
+    .photo-wrap .tape {
+      display: block; width: 70px; height: 20px; margin: -160px auto 140px;
+      background: rgba(255,255,255,.28); transform: rotate(-4deg); position: relative; z-index: 2;
+    }
+    nav { text-align: center; margin-bottom: 26px; font-size: 1rem; }
+    nav a { margin: 0 11px; }
+    section { margin-bottom: 30px; }
+    h2 {
+      font-size: 1.45rem; color: #ffd866; margin-bottom: 12px;
+      text-shadow: 0 0 5px rgba(255,216,102,.3);
+    }
+    h2::before { content: "✎ "; }
+    .item { margin-bottom: 12px; padding-left: 26px; position: relative; }
+    .item::before { content: "→"; position: absolute; left: 2px; color: #9fd6b8; }
+    .item .t { color: #fff; font-weight: 700; }
+    .item .m { font-size: .88rem; color: #b9cec3; display: block; }
+    .chalkbox {
+      border: 2.5px solid rgba(255,255,255,.85); border-radius: 255px 18px 225px 18px/18px 225px 18px 255px;
+      padding: 16px 22px; margin: 6px 0 4px; transform: rotate(-.3deg);
+    }
+    .eq { text-align: center; font-size: 1.05rem; color: #cfe3d8; margin-top: 16px; font-style: italic; }
+    .footer-links { clear: both; text-align: center; margin-top: 8px; border-top: 2px dashed rgba(255,255,255,.35); padding-top: 16px; font-size: .95rem; }
+    .footer-links a { margin: 0 10px; }
+    .chalk-tray {
+      max-width: 980px; margin: -8px auto 0; height: 18px;
+      background: #6a4c32; border-radius: 0 0 8px 8px; box-shadow: 0 6px 10px rgba(0,0,0,.4);
+      position: relative;
+    }
+    .chalk { position: absolute; top: 4px; height: 8px; width: 60px; border-radius: 4px; background: #f5f2e8; }
+    .chalk.c1 { left: 12%; transform: rotate(1deg); }
+    .chalk.c2 { left: 30%; width: 42px; background: #ffd866; transform: rotate(-2deg); }
+    .chalk.c3 { left: 72%; width: 50px; background: #9fd6b8; transform: rotate(1.5deg); }
+  </style>
+</head>
+
+<body>
+  <div class="board">
+    <header>
+      <h1>Prof. Eduardo Dávila<span class="underline"></span></h1>
+      <div class="role">Econ — Yale University &amp; NBER · office hours: <a href="mailto:eduardo.davila@yale.edu">by email</a></div>
+    </header>
+
+    <nav>
+      <a href="#">Home</a> <a href="#">Bio/CV</a> <a href="#">Research</a>
+      <a href="#">Teaching</a> <a href="#">Discussions</a> <a href="#">Contact</a>
+    </nav>
+
+    <div class="photo-wrap">
+      <img src="../input/davila_photo.jpg" alt="Eduardo Dávila">
+      <span class="tape"></span>
+    </div>
+
+    <section>
+      <h2>Today's Lecture: About Me</h2>
+      <p>Research in <strong>Financial Economics</strong> and <strong>Macroeconomics</strong>, with an
+        emphasis on <em>normative</em> questions. I teach General Equilibrium and Welfare Economics,
+        Financial Economics, and Normative Macro-Finance.
+        Handouts: <a href="../input/davila_cv.pdf">CV</a>, <a href="https://scholar.google.com/citations?user=LTyI2MYAAAAJ">Google Scholar</a>, <a href="https://github.com/edavila">GitHub</a>.</p>
+      <div class="eq">max<sub>θ</sub> W(θ) &nbsp;s.t.&nbsp; markets clear — see papers below for details ↓</div>
+    </section>
+
+    <section>
+      <h2>New on the Board (Drafts)</h2>
+      <div class="item"><span class="t"><a href="../research/davila_parlatore_walther_probability_pricing.pdf">Probability Pricing</a></span><span class="m">w/ Cecilia Parlatore &amp; Ansgar Walther — Oct 2025</span></div>
+      <div class="item"><span class="t"><a href="../research/davila_schaab_time_inconsistency.pdf">Time Inconsistency with Heterogeneous Agents</a></span><span class="m">w/ Andreas Schaab — Sep 2025</span></div>
+      <div class="item"><span class="t"><a href="../research/barcons_davila_schaab_intergenerational_welfare_assessments.pdf">Intergenerational Welfare Assessments</a></span><span class="m">w/ Sergi Barcons &amp; Andreas Schaab — Dec 2025</span></div>
+      <div class="item"><span class="t"><a href="../research/drst_optimal_tariffs.pdf">A Dynamic Theory of Optimal Tariffs</a></span><span class="m">w/ Andrés Rodríguez-Clare, Andreas Schaab &amp; Stacy Yingqi Tan — May 2025</span></div>
+      <div class="item"><span class="t"><a href="../research/davila_walther_corrective.pdf">Corrective Regulation with Imperfect Instruments</a></span><span class="m">w/ Ansgar Walther — May 2026</span></div>
+    </section>
+
+    <section>
+      <h2>Required Reading (Published)</h2>
+      <div class="chalkbox">
+        <div class="item"><span class="t"><a href="../research/davila_parlatore_identifying.pdf">Identifying Price Informativeness</a></span><span class="m">Review of Financial Studies, 2026 — w/ Cecilia Parlatore</span></div>
+        <div class="item"><span class="t"><a href="../research/davila_schaab_welfare_heterogeneous.pdf">Welfare Assessments with Heterogeneous Individuals</a></span><span class="m">Journal of Political Economy, 2025 — w/ Andreas Schaab</span></div>
+        <div class="item"><span class="t"><a href="../research/davila_graves_parlatore_value_arbitrage.pdf">The Value of Arbitrage</a></span><span class="m">Journal of Political Economy, 2024 — w/ Daniel Graves &amp; Cecilia Parlatore</span></div>
+        <div class="item"><span class="t"><a href="../research/davila_optimal_ftt.pdf">Optimal Financial Transaction Taxes</a></span><span class="m">Journal of Finance, 2023 — lead article</span></div>
+        <div class="item"><span class="t"><a href="../research/davila_goldstein_optimal_di.pdf">Optimal Deposit Insurance</a></span><span class="m">Journal of Political Economy, 2023 — w/ Itay Goldstein</span></div>
+        <div class="item"><span class="t"><a href="../research/davila_walther_prudential_beliefs.pdf">Prudential Policy with Distorted Beliefs</a></span><span class="m">American Economic Review, 2023 — w/ Ansgar Walther</span></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Announcements</h2>
+      <div class="item"><a href="https://economics.yale.edu/news/241002/yale-economist-eduardo-davila-wins-banco-sabadell-foundation-award-economic-research">Banco Sabadell Foundation Award for Economic Research</a></div>
+      <div class="item"><a href="https://cowles.yale.edu/news/240509/cowles-foundation-hosts-18th-annual-conference-general-equilibrium">Cowles hosts 18th Annual Conference on General Equilibrium</a></div>
+      <div class="item"><a href="https://economics.yale.edu/news/240221/eduardo-davila-and-ryota-iijima-named-sloan-fellows-early-career-excellence">Named Sloan Research Fellow</a></div>
+    </section>
+
+    <div class="footer-links">
+      <a href="../input/davila_cv.pdf">CV</a> · <a href="https://scholar.google.com/citations?user=LTyI2MYAAAAJ">Scholar</a> ·
+      <a href="https://github.com/edavila">GitHub</a> · <a href="mailto:eduardo.davila@yale.edu">eduardo.davila@yale.edu</a>
+    </div>
+  </div>
+  <div class="chalk-tray">
+    <span class="chalk c1"></span><span class="chalk c2"></span><span class="chalk c3"></span>
+  </div>
+</body>
+</html>

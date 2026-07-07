@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Eduardo Dávila — Assistant Professor of Economics at Yale University. Research in Financial Economics and Macroeconomics.">
+  <title>Eduardo Dávila | Template 13 — Transit Map</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --pub: #0039a6;   /* publications line */
+      --wp: #ff6319;    /* working papers line */
+      --news: #00933c;  /* news line */
+      --ink: #111;
+    }
+    body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      background: #f2efe9;
+      color: var(--ink);
+      line-height: 1.5;
+    }
+    a { color: inherit; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .page { max-width: 1000px; margin: 0 auto; padding: 30px 24px 70px; }
+    header {
+      background: var(--ink); color: #fff; border-radius: 10px;
+      padding: 22px 28px; display: flex; gap: 24px; align-items: center; flex-wrap: wrap;
+    }
+    header img { width: 92px; height: 92px; border-radius: 50%; object-fit: cover; border: 3px solid #fff; }
+    h1 { font-size: 1.9rem; font-weight: 800; letter-spacing: -.01em; }
+    .role { color: #ccc; font-size: .95rem; }
+    .bullets { margin-left: auto; display: flex; gap: 10px; }
+    .bullet {
+      width: 44px; height: 44px; border-radius: 50%; color: #fff; font-weight: 800;
+      display: flex; align-items: center; justify-content: center; font-size: 1.15rem;
+    }
+    .bullet.p { background: var(--pub); } .bullet.w { background: var(--wp); } .bullet.n { background: var(--news); }
+    nav {
+      display: flex; gap: 4px; flex-wrap: wrap; margin: 14px 0 8px;
+    }
+    nav a {
+      background: #fff; border: 2px solid var(--ink); border-radius: 999px;
+      padding: 6px 16px; font-weight: 700; font-size: .82rem; text-transform: uppercase; letter-spacing: .04em;
+    }
+    nav a:hover { background: var(--ink); color: #fff; text-decoration: none; }
+    .service-notice {
+      background: #fff8dc; border: 2px solid var(--ink); border-radius: 8px;
+      padding: 12px 18px; margin: 16px 0 30px; font-size: .93rem;
+    }
+    .service-notice strong { text-transform: uppercase; font-size: .8rem; letter-spacing: .06em; }
+    .lines { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 34px; }
+    .line h2 {
+      display: flex; align-items: center; gap: 12px; font-size: 1.1rem; font-weight: 800;
+      text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px;
+    }
+    .line .dest { font-size: .8rem; color: #555; margin-bottom: 16px; padding-left: 56px; }
+    .track { position: relative; padding-left: 56px; }
+    .track::before {
+      content: ""; position: absolute; left: 20px; top: 6px; bottom: 6px; width: 10px; border-radius: 6px;
+    }
+    .line.pub .track::before { background: var(--pub); }
+    .line.wp .track::before { background: var(--wp); }
+    .line.news .track::before { background: var(--news); }
+    .station { position: relative; padding: 13px 0; }
+    .station::before {
+      content: ""; position: absolute; left: -36px; top: 18px;
+      width: 16px; height: 16px; background: #fff; border: 4px solid var(--ink); border-radius: 50%;
+    }
+    .station.express::before { width: 20px; height: 20px; left: -38px; top: 16px; }
+    .station .name { font-weight: 700; font-size: .97rem; line-height: 1.3; }
+    .station .sub { font-size: .8rem; color: #555; }
+    .station .transfer {
+      display: inline-block; margin-left: 6px; font-size: .68rem; font-weight: 800; color: #fff;
+      border-radius: 3px; padding: 1px 6px; vertical-align: 2px; letter-spacing: .04em;
+    }
+    .line.pub .transfer { background: var(--pub); }
+    .line.wp .transfer { background: var(--wp); }
+    .line.news .transfer { background: var(--news); }
+    footer {
+      margin-top: 44px; background: var(--ink); color: #fff; border-radius: 10px;
+      padding: 14px 22px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;
+      font-size: .85rem; font-weight: 600;
+    }
+    footer a { color: #fff; text-decoration: underline; }
+  </style>
+</head>
+
+<body>
+  <div class="page">
+    <header>
+      <img src="../input/davila_photo.jpg" alt="Eduardo Dávila">
+      <div>
+        <h1>Eduardo Dávila</h1>
+        <div class="role">Assistant Professor of Economics · Yale University · NBER</div>
+      </div>
+      <div class="bullets">
+        <span class="bullet p" title="Publications line">P</span>
+        <span class="bullet w" title="Working papers line">W</span>
+        <span class="bullet n" title="News line">N</span>
+      </div>
+    </header>
+
+    <nav>
+      <a href="#">Home</a><a href="#">Bio/CV</a><a href="#">Research</a>
+      <a href="#">Teaching</a><a href="#">Discussions</a><a href="#">Contact</a>
+    </nav>
+
+    <div class="service-notice">
+      <strong>Service notice:</strong> research in Financial Economics and Macroeconomics, with an
+      emphasis on normative questions, runs at all times. Transfers available to
+      <a href="../input/davila_cv.pdf"><u>CV</u></a>,
+      <a href="https://scholar.google.com/citations?user=LTyI2MYAAAAJ"><u>Google Scholar</u></a>,
+      <a href="https://github.com/edavila"><u>GitHub</u></a>, and
+      <a href="mailto:eduardo.davila@yale.edu"><u>email</u></a>.
+    </div>
+
+    <div class="lines">
+      <div class="line wp">
+        <h2><span class="bullet w">W</span> Working Papers</h2>
+        <div class="dest">toward Publication — local service</div>
+        <div class="track">
+          <div class="station express">
+            <div class="name"><a href="../research/davila_parlatore_walther_probability_pricing.pdf">Probability Pricing</a><span class="transfer">OCT 2025</span></div>
+            <div class="sub">with C. Parlatore &amp; A. Walther</div>
+          </div>
+          <div class="station">
+            <div class="name"><a href="../research/davila_schaab_time_inconsistency.pdf">Time Inconsistency with Heterogeneous Agents</a><span class="transfer">SEP 2025</span></div>
+            <div class="sub">with A. Schaab</div>
+          </div>
+          <div class="station">
+            <div class="name"><a href="../research/barcons_davila_schaab_intergenerational_welfare_assessments.pdf">Intergenerational Welfare Assessments</a><span class="transfer">DEC 2025</span></div>
+            <div class="sub">with S. Barcons &amp; A. Schaab</div>
+          </div>
+          <div class="station">
+            <div class="name"><a href="../research/drst_optimal_tariffs.pdf">A Dynamic Theory of Optimal Tariffs</a><span class="transfer">MAY 2025</span></div>
+            <div class="sub">with A. Rodríguez-Clare, A. Schaab &amp; S. Y. Tan</div>
+          </div>
+          <div class="station">
+            <div class="name"><a href="../research/davila_walther_corrective.pdf">Corrective Regulation with Imperfect Instruments</a><span class="transfer">MAY 2026</span></div>
+            <div class="sub">with A. Walther — under revision</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="line pub">
+        <h2><span class="bullet p">P</span> Publications</h2>
+        <div class="dest">express service — all stations peer-reviewed</div>
+        <div class="track">
+          <div class="station express">
+            <div class="name"><a href="../research/davila_parlatore_identifying.pdf">Identifying Price Informativeness</a><span class="transfer">RFS 2026</span></div>
+            <div class="sub">with C. Parlatore</div>
+          </div>
+          <div class="station">
+            <div class="name"><a href="../research/davila_schaab_welfare_heterogeneous.pdf">Welfare Assessments with Heterogeneous Individuals</a><span class="transfer">JPE 2025</span></div>
+            <div class="sub">with A. Schaab</div>
+          </div>
+          <div class="station">
+            <div class="name"><a href="../research/davila_graves_parlatore_value_arbitrage.pdf">The Value of Arbitrage</a><span class="transfer">JPE 2024</span></div>
+            <div class="sub">with D. Graves &amp; C. Parlatore</div>
+          </div>
+          <div class="station">
+            <div class="name"><a href="../research/davila_optimal_ftt.pdf">Optimal Financial Transaction Taxes</a><span class="transfer">JF 2023</span></div>
+            <div class="sub">lead article</div>
+          </div>
+          <div class="station">
+            <div class="name"><a href="../research/davila_goldstein_optimal_di.pdf">Optimal Deposit Insurance</a><span class="transfer">JPE 2023</span></div>
+            <div class="sub">with I. Goldstein</div>
+          </div>
+          <div class="station">
+            <div class="name"><a href="../research/davila_walther_prudential_beliefs.pdf">Prudential Policy with Distorted Beliefs</a><span class="transfer">AER 2023</span></div>
+            <div class="sub">with A. Walther</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="line news">
+        <h2><span class="bullet n">N</span> News</h2>
+        <div class="dest">recent arrivals</div>
+        <div class="track">
+          <div class="station">
+            <div class="name"><a href="https://economics.yale.edu/news/241002/yale-economist-eduardo-davila-wins-banco-sabadell-foundation-award-economic-research">Banco Sabadell Foundation Award</a></div>
+            <div class="sub">for economic research</div>
+          </div>
+          <div class="station">
+            <div class="name"><a href="https://cowles.yale.edu/news/240509/cowles-foundation-hosts-18th-annual-conference-general-equilibrium">18th General Equilibrium Conference</a></div>
+            <div class="sub">hosted at Cowles</div>
+          </div>
+          <div class="station">
+            <div class="name"><a href="https://economics.yale.edu/news/240221/eduardo-davila-and-ryota-iijima-named-sloan-fellows-early-career-excellence">Sloan Research Fellowship</a></div>
+            <div class="sub">early-career excellence</div>
+          </div>
+          <div class="station">
+            <div class="name"><a href="https://economics.yale.edu/news/240109/eduardo-davilas-research-explores-welfare-and-macroeconomy">Welfare &amp; the Macroeconomy</a></div>
+            <div class="sub">research feature</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <span>Eduardo Dávila — Yale University</span>
+      <span>Next stop: <a href="mailto:eduardo.davila@yale.edu">eduardo.davila@yale.edu</a></span>
+    </footer>
+  </div>
+</body>
+</html>
