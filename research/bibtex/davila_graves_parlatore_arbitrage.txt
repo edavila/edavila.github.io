@@ -1,6 +1,6 @@
 @article{davilagravesparlatore2024arbitrage,
   title={The Value of Arbitrage},
-  author={D{\'a}vila, Eduardo and Graves, Daniel and Parlatore, Cecilia},
+  author={D\'{a}vila, Eduardo and Graves, Daniel and Parlatore, Cecilia},
   journal                  = {Journal of Political Economy},
   year                     = {2024},
   month                    = {June},

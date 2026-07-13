@@ -1,5 +1,5 @@
 @article{davilaparlatore2021tradingcosts,
-  author  = {D{\'a}vila, Eduardo and Parlatore, Cecilia},
+  author  = {D\'{a}vila, Eduardo and Parlatore, Cecilia},
   journal = {The Journal of Finance},
   title   = {Trading Costs and Informational Efficiency},
   year    = {2021},

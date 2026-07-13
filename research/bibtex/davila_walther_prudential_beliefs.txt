@@ -1,6 +1,6 @@
 @article{davilawalther2023prudential,
   Title                    = {Prudential Policy with Distorted Beliefs},
-  Author                   = {D{\'a}vila, Eduardo and Walther, Ansgar},
+  Author                   = {D\'{a}vila, Eduardo and Walther, Ansgar},
   Journal                  = {American Economic Review},
   Year                     = {2023},
   Month                    = {July},
