@@ -1,2 +1,5 @@
 # macOS metadata
 .DS_Store
+
+# Claude project instructions (local only)
+CLAUDE.md
