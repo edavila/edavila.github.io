@@ -1,0 +1,7 @@
+@article{davila2026normative,
+  author  = {D\'{a}vila, Eduardo},
+  journal = {SERIEs: Journal of the Spanish Economic Association},
+  title   = {Normative Macro-Finance: An Agenda and Ten Rules},
+  year    = {2026},
+  note    = {Forthcoming}
+}
